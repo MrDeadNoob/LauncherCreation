@@ -1,0 +1,29 @@
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\WOW Koi Launcher.exe.config
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\WOW Koi Launcher.exe
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\WOW Koi Launcher.pdb
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\Tomlyn.dll
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\Tomlyn.xml
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW Koi Launcher.csproj.AssemblyReference.cache
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW Koi Launcher.csproj.SuggestedBindingRedirects.cache
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW_Koi_Launcher.Launcher_WindowSettings.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW_Koi_Launcher.Launcher_WindowMain.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW_Koi_Launcher.Launcher_WindowLoad.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW_Koi_Launcher.Properties.Resources.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW Koi Launcher.csproj.GenerateResource.cache
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW Koi Launcher.csproj.CoreCompileInputs.cache
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW Koi Launcher.csproj.CopyComplete
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW Koi Launcher.exe
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW Koi Launcher.pdb
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW_Koi_Launcher.Language.Lang_En.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW_Koi_Launcher.Language.lang_de.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\x64\Release\WOW_Koi_Launcher.Language.Lang_Es.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\Mono.Nat.dll
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\MonoTorrent.dll
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\ReusableTasks.dll
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\Mono.Nat.xml
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\MonoTorrent.xml
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\ReusableTasks.xml
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\Microsoft.WindowsAPICodePack.dll
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\Microsoft.WindowsAPICodePack.xml
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\x64\Release\Microsoft.WindowsAPICodePack.Shell.xml

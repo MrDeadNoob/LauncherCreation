@@ -1,0 +1,11 @@
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\bin\x64\Release\WOW Koi Launcher Installer.exe.config
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\bin\x64\Release\WOW Koi Launcher Installer.exe
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\bin\x64\Release\WOW Koi Launcher Installer.pdb
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\obj\x64\Release\WOW Koi Launcher Installer.csproj.AssemblyReference.cache
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\obj\x64\Release\WOW Koi Launcher Installer.csproj.SuggestedBindingRedirects.cache
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\obj\x64\Release\WOW_Koi_Launcher_Installer.InstallerForm.resources
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\obj\x64\Release\WOW_Koi_Launcher_Installer.Properties.Resources.resources
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\obj\x64\Release\WOW Koi Launcher Installer.csproj.GenerateResource.cache
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\obj\x64\Release\WOW Koi Launcher Installer.csproj.CoreCompileInputs.cache
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\obj\x64\Release\WOW Koi Launcher Installer.exe
+D:\WOW Koi\WOW Koi Launcher Installer\WOW Koi Launcher Installer\obj\x64\Release\WOW Koi Launcher Installer.pdb

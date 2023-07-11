@@ -1,0 +1,14 @@
+D:\WGL Launcher\WGL Launcher\bin\Debug\WGL Launcher.exe.config
+D:\WGL Launcher\WGL Launcher\bin\Debug\WGL Launcher.exe
+D:\WGL Launcher\WGL Launcher\bin\Debug\WGL Launcher.pdb
+D:\WGL Launcher\WGL Launcher\bin\Debug\de\WGL Launcher.resources.dll
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL Launcher.csproj.AssemblyReference.cache
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL Launcher.csproj.SuggestedBindingRedirects.cache
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL_Launcher.WGL_Launcher.resources
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL_Launcher.Properties.Resources.resources
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL_Launcher.WGL_Launcher.de.resources
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL Launcher.csproj.GenerateResource.cache
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL Launcher.csproj.CoreCompileInputs.cache
+D:\WGL Launcher\WGL Launcher\obj\Debug\de\WGL Launcher.resources.dll
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL Launcher.exe
+D:\WGL Launcher\WGL Launcher\obj\Debug\WGL Launcher.pdb

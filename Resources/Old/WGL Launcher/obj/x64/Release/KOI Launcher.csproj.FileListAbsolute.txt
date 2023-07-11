@@ -1,0 +1,31 @@
+D:\WGL Launcher\WGL Launcher\bin\x64\Release\WGL Launcher.exe.config
+D:\WGL Launcher\WGL Launcher\bin\x64\Release\WGL Launcher.exe
+D:\WGL Launcher\WGL Launcher\bin\x64\Release\WGL Launcher.pdb
+D:\WGL Launcher\WGL Launcher\bin\x64\Release\de\WGL Launcher.resources.dll
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\KOI Launcher.csproj.AssemblyReference.cache
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\KOI Launcher.csproj.SuggestedBindingRedirects.cache
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\WGL_Launcher.KOI_Launcher.resources
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\WGL_Launcher.Properties.Resources.resources
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\WGL_Launcher.KOI_Launcher.de.resources
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\KOI Launcher.csproj.GenerateResource.cache
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\KOI Launcher.csproj.CoreCompileInputs.cache
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\de\WGL Launcher.resources.dll
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\WGL Launcher.exe
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\WGL Launcher.pdb
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\KOI_Launcher.Properties.Resources.resources
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\KOI_Launcher.KOI_Launcher.resources
+D:\WGL Launcher\WGL Launcher\obj\x64\Release\KOI_Launcher.KOI_Launcher.de.resources
+D:\Old\WGL Launcher\obj\x64\Release\KOI Launcher.csproj.AssemblyReference.cache
+D:\Old\WGL Launcher\obj\x64\Release\KOI Launcher.csproj.SuggestedBindingRedirects.cache
+D:\Old\WGL Launcher\obj\x64\Release\KOI_Launcher.KOI_Launcher.resources
+D:\Old\WGL Launcher\obj\x64\Release\KOI_Launcher.Properties.Resources.resources
+D:\Old\WGL Launcher\obj\x64\Release\KOI_Launcher.KOI_Launcher.de.resources
+D:\Old\WGL Launcher\obj\x64\Release\KOI Launcher.csproj.GenerateResource.cache
+D:\Old\WGL Launcher\obj\x64\Release\KOI Launcher.csproj.CoreCompileInputs.cache
+D:\Old\WGL Launcher\bin\x64\Release\WOW Koi Launcher.exe.config
+D:\Old\WGL Launcher\bin\x64\Release\WOW Koi Launcher.exe
+D:\Old\WGL Launcher\bin\x64\Release\WOW Koi Launcher.pdb
+D:\Old\WGL Launcher\bin\x64\Release\de\WOW Koi Launcher.resources.dll
+D:\Old\WGL Launcher\obj\x64\Release\de\WOW Koi Launcher.resources.dll
+D:\Old\WGL Launcher\obj\x64\Release\WOW Koi Launcher.exe
+D:\Old\WGL Launcher\obj\x64\Release\WOW Koi Launcher.pdb

@@ -1,0 +1,11 @@
+D:\KOI Launcher\KOI Launcher\bin\x64\Release\KOI Launcher.exe.config
+D:\KOI Launcher\KOI Launcher\bin\x64\Release\KOI Launcher.exe
+D:\KOI Launcher\KOI Launcher\bin\x64\Release\KOI Launcher.pdb
+D:\KOI Launcher\KOI Launcher\obj\x64\Release\KOI Launcher.csproj.AssemblyReference.cache
+D:\KOI Launcher\KOI Launcher\obj\x64\Release\KOI Launcher.csproj.SuggestedBindingRedirects.cache
+D:\KOI Launcher\KOI Launcher\obj\x64\Release\KOI_Launcher.LauncherMainWindow.resources
+D:\KOI Launcher\KOI Launcher\obj\x64\Release\KOI_Launcher.Properties.Resources.resources
+D:\KOI Launcher\KOI Launcher\obj\x64\Release\KOI Launcher.csproj.GenerateResource.cache
+D:\KOI Launcher\KOI Launcher\obj\x64\Release\KOI Launcher.csproj.CoreCompileInputs.cache
+D:\KOI Launcher\KOI Launcher\obj\x64\Release\KOI Launcher.exe
+D:\KOI Launcher\KOI Launcher\obj\x64\Release\KOI Launcher.pdb

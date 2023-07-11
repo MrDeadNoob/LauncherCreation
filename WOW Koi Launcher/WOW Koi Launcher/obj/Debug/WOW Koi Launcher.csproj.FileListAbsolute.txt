@@ -1,0 +1,16 @@
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\Debug\WOW Koi Launcher.exe.config
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\Debug\WOW Koi Launcher.exe
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\Debug\WOW Koi Launcher.pdb
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW Koi Launcher.csproj.AssemblyReference.cache
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW Koi Launcher.csproj.SuggestedBindingRedirects.cache
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW_Koi_Launcher.Properties.Resources.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW Koi Launcher.csproj.GenerateResource.cache
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW Koi Launcher.csproj.CoreCompileInputs.cache
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW Koi Launcher.exe
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW Koi Launcher.pdb
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW_Koi_Launcher.Launcher_WindowLoad.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW_Koi_Launcher.Launcher_WindowSettings.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW_Koi_Launcher.Launcher_WindowMain.resources
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\Debug\Tomlyn.dll
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\bin\Debug\Tomlyn.xml
+D:\WOW Koi\WOW Koi Launcher\WOW Koi Launcher\obj\Debug\WOW Koi Launcher.csproj.CopyComplete
